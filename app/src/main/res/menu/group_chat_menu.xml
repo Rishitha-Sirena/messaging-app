@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add_member"
+        android:icon="@drawable/ic_person_add"
+        android:title="Add Member"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_view_members"
+        android:title="View Members"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_leave_group"
+        android:title="Leave Group"
+        app:showAsAction="never"/>
+</menu> 

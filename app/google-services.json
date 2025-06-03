@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "877883287135",
+    "firebase_url": "https://quill-3c76b-default-rtdb.firebaseio.com",
+    "project_id": "quill-3c76b",
+    "storage_bucket": "quill-3c76b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877883287135:android:bd56bd03640d422a709dea",
+        "android_client_info": {
+          "package_name": "com.example.quill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIaQwVFsw9IsdKZBzfRgO0kkbjBS6DIkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="Primary">#F2EDFD</color>
+<color name="PrimaryDark">#D7C6F8</color>
+<color name="PrimaryAccent">#BFA9EE</color>
+<color name="PrimaryVarient">#9A82C0</color>
+<color name="black">#FF000000</color>
+<color name="white">#FFFFFFFF</color>
+<color name="gray">#757575</color>
+
+<!-- Standard Android color names -->
+<color name="colorPrimary">@color/Primary</color>
+<color name="colorPrimaryDark">@color/PrimaryDark</color>
+<color name="colorAccent">@color/PrimaryAccent</color>
+<color name="colorPrimaryVariant">@color/PrimaryVarient</color>
+</resources>
